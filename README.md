@@ -1,1 +1,1 @@
-A simple html file. Visist form the linnk https://bpmdevr.github.io/Purrfectmatch
+A simple html file. Visit form the link https://bpmdevr.github.io/Purrfectmatch
